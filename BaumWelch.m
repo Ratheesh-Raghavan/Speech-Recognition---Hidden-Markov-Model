@@ -1,6 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% EEEM030 - Speech & Audio Processing & Recognition                     %
-% Assignment 2 - Speech Recognition                                     %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                                    %
 %                                                                       %
 % MATLAB Script.                                                        %
 % Function: Create a Hidden Marcov Model and perform Forward-Backward   %
@@ -11,7 +9,6 @@
 %           Number of possibe observations = 8 (1,2,3,4,5,6,7,8)        %
 %                                                                       %
 % Written by: Ratheesh Raghavan                                         %
-% Date of Submission: 08/12/2021                                        %
 %                                                                       %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
